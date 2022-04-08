@@ -1,3 +1,11 @@
+# Breaking Bad quotes API for Vercel deployment
+
+A simple API to retrieve some quotes of Breaking Bad based on:
+:globe_with_meridians: Website and demo: https://breakingbadquotes.xyz/
+
+but for deploy on Vercel environment (Next.JS).
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
